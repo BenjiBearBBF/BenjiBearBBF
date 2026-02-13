@@ -1,1 +1,2 @@
-Working directory check: /workspace/BenjiBearBBF
+Workspace target: A:\0\Workspaces
+WSL equivalent: /mnt/a/0/Workspaces
